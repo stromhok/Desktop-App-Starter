@@ -62,6 +62,7 @@ Free vs full
 If you just want a tool for yourself, this is all you need. You don't need to buy anything.
 
 To sell an app, you need a few more things: license keys, signed installers, and a way to ship updates. The full Desktop App Boilerplate has them wired in. This starter is a cut of it.
+<img width="1384" height="690" alt="image" src="https://github.com/user-attachments/assets/e6fe59ac-13f0-4b47-9c92-019403efbac2" />
 
 Desktop App Starter (free)	Desktop App Boilerplate (full)
 Window, 6 themes, settings, validated IPC, generators	✓	✓
