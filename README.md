@@ -1,6 +1,7 @@
 Open the folder in Claude Code and ask for a screen in plain words. Claude reads CLAUDE.md first, reuses the pieces that are already here, adds your feature the way the rest of the app is built, and writes a test. It doesn't have to rebuild the window, the bridge, the settings or the components for every new app.
 
 MIT licensed. Use it for anything, including apps you sell.
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8a3e9dba-60ad-443e-9fc8-225f4d8bd564" />
 
 Want license keys, code signing and auto-update too? That's the full Desktop App Boilerplate, also included in my course Build With AI 1.0. See what's different.
 
